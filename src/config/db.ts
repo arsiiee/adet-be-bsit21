@@ -6,7 +6,7 @@ const dbConfig = {
   port: 3306, 
   user: 'root',
   password: '123456', 
-  database: 'bsitdb_21', 
+  database: 'bsit_21', 
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0,
